@@ -4,6 +4,7 @@ This is a course work project specifically looking at what are one of the ways A
 Topics discussed in the ipynb notebooks:
 1. Practical discussion of an actual possible occurrence of how backdoor and poisoning attacks can affect real-world systems.
 2. Explanation of FGSM
+  - <a> https://tinyurl.com/FGSM-eg </a>
 3. Detection against FGSM using the IBM adverserial robustness toolbox
 
 
