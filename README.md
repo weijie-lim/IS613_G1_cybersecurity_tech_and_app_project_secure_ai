@@ -1,7 +1,7 @@
 # IS613_G1_cybersecurity_tech_and_app_project_secure_ai
 This is a course work project specifically looking at what are one of the ways AI models can be attacked how we are able to secure these models.
 
-Topics discussed:
+Topics discussed in the ipynb notebooks:
 1. Practical discussion of an actual possible occurrence of how backdoor and poisoning attacks can affect real-world systems.
 2. Explanation of FGSM
 3. Detection against FGSM using the IBM adverserial robustness toolbox
