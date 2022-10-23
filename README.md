@@ -11,3 +11,4 @@ Topics discussed in the ipynb notebooks:
 Credit and References: 
 </br> 1. Alexander Madry https://github.com/MadryLab/mnist_challenge 
 </br> 2. Resources from IBM https://github.com/IBM/Trusted-ML-Pipelines & https://github.com/Trusted-AI/adversarial-robustness-toolbox
+</br> 3. DEEPSEC: https://github.com/ryderling/DEEPSEC
