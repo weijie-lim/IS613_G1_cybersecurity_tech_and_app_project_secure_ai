@@ -6,10 +6,13 @@ Topics discussed in the ipynb notebooks:
 2. Explanation of FGSM
   - <a> https://tinyurl.com/FGSM-eg </a>
 3. Detection against FGSM using the IBM adverserial robustness toolbox
-4. A Different Example on MNIST / Cifar dataset using DEEPSEC's resources
-  - BIM: Improvements to FGSM Attack
+4. A Different Example on MNIST dataset using DEEPSEC's resources
+  - Attack
+    1. FGSM
   - Evaluating Attack Metrics
   - Preparing Defenses Against such Attacks
+    1. Adverserial Training at Scale
+    2. Ensemble Adverserial Training
   - Evaluating Defense Metrics
 
 
